@@ -1,0 +1,98 @@
+section{
+    height: 500px;
+    padding-bottom: 250px;
+    margin-bottom: 250px;
+}
+.color-show{
+    color: palevioletred;
+}
+.top-banner{
+    background-image: url('../../assets/images/header-bg.png');
+    background-repeat: no-repeat;
+}
+.profile-half{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.profile-half img{
+    width: 100%;
+}
+.link-button{
+    color: #fff;
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.line{
+    line-height: 8px;  
+}
+.line1{
+    width: 15px;
+    height: 15px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line2{
+    width: 80px;
+    height: 2px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line3{
+    width: 60px;
+    height: 2px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line4{
+    width: 100px;
+    height: 2px;
+    background: #f67c92;
+    display: inline-block;
+}
+.biography-area{
+    background-image: url('../../assets/images/biography-bg.png');
+}
+.work-gallery img{
+    height: 300px;
+    width: 400px;
+    padding: 0 50px;
+}
+.work-area h1{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.work-area{
+    background-image: url('../../assets/images/work-bg.png');
+    background-repeat: no-repeat;
+}
+.message-section{
+    text-align: center;
+    background-image: url('../../assets/images/footer-bg.png');
+    background-repeat: no-repeat;
+}
+.client-title, .bruce-moccy, .client-feedback, .message-area{
+    margin-bottom: 60px;
+}
+.message-area{
+    background-color: #f67c92;
+    height: 200px;
+    margin: 0 300px; 
+    border-radius: 10px;
+    padding: 60px 0;
+    color: #fff;
+}
+.message-area a{
+    color: #fff;
+    text-decoration: none;
+}
+.bruce-moccy p{
+    color: gray;
+}
+.footer-area p{
+    color: gray;
+    text-align: center;
+}
